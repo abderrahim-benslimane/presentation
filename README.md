@@ -3,8 +3,11 @@
 **Location:** Montréal, QC, Canada  
 **Work authorization:** Canadian Permanent Resident  
 **Email:** abenslimane2022@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/abderrahim-benslimane
-**Credly:** https://www.credly.com/users/benslimaneabderrahim  
+**LinkedIn:**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abderrahim%20Benslimane-0A66C2?logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/abderrahim-benslimane)  
+**Credly:** https://www.credly.com/users/benslimaneabderrahim 
+
+
+
 
 ---
 
