@@ -13,7 +13,7 @@
 
 ## Summary
 
-Senior **Network & Cloud Architect** (French/English) with **20+ years** in IT and **8+ years** in **Cloud/DevOps**. For the past **3 years at Buspas**, I have served as a **Lead Principal Architect** delivering **end-to-end IoT & AI solutions** across **hybrid/multi-cloud (Azure/AWS)** environments—from architecture and security to production operations. Strong expertise in **Zero Trust**, **IaC/automation**, **CI/CD**, and **Microsoft 365 / Entra ID** governance and security.
+Senior **Network & Cloud Architect** (French/English) with **22+ years** in IT and **8+ years** in **Cloud/DevOps**. For the past **3 years at Buspas**, I have served as a **Lead Principal Architect** delivering **end-to-end IoT & AI solutions** across **hybrid/multi-cloud (Azure/AWS)** environments—from architecture and security to production operations. Strong expertise in **Zero Trust**, **IaC/automation**, **CI/CD**, and **Microsoft 365 / Entra ID** governance and security.
 
 Advanced networking background across **Cisco / Aruba / Fortinet**, **SD-WAN**, and advanced routing (**BGP/OSPF**), with experience designing secure private connectivity (**VPN, ExpressRoute / Direct Connect**) and resilient architectures. Strong data platform experience with **SQL/NoSQL** including **Azure SQL, PostgreSQL, Cosmos DB, MongoDB**. Experienced with security and compliance frameworks such as **ISO 27001, NIST, OWASP, CIS Controls**, and regulatory requirements including **GDPR/RGPD, HIPAA/HITECH, CCPA/CPRA**.
 
